@@ -19,12 +19,12 @@ Welcome to the Brain Tumor Detection project This web application uses deep lear
 Brain tumor detection is a complex challenge, but our project tackles it head-on We're using a convolutional neural network (CNN) to classify brain tumors into four categories: Glioma, Meningioma, Pituitary, and No Tumor. The web application integrates the trained CNN model to make predictions on user-uploaded images.
 
 ## Dataset
-The dataset includes 2,896 medical images across four classes:
+The dataset includes 7023 medical images across four classes:
 
-- **Glioma Tumor**: 926 images
-- **Meningioma Tumor**: 937 images
-- **No Tumor**: 500 images
-- **Pituitary Tumor**: 901 images
+- **Glioma Tumor**: 1621 images
+- **Meningioma Tumor**: 1645 images
+- **No Tumor**: 2000 images
+- **Pituitary Tumor**: 1757 images
 
 Organized as follows:
 
